@@ -1,0 +1,44 @@
+Enter the number of products you want to enter
+2
+Enter the id of the product 
+13
+Enter the Name
+Game of thrones
+Enter the price
+22.5
+Enter the author
+G. RR. Martin
+Enter the id of the product 
+1
+Enter the Name
+Tooth Brush
+Enter the price
+2.5
+Enter the author
+Patanjali
+****Welcome To Shopping Management System****
+1) Add a new Product, id, author
+
+2) List all Product with name, Id
+
+3) Search Product with ID
+
+4) Edit Product by name
+
+5) Delete Product by ID
+
+6) Exit
+2
+{ Product name = Tooth Brush, Product Cost = 2.5, id =1}
+{ Product name = Game of thrones, Product Cost = 22.5, id =13}
+Enter the choice again: 
+5
+Enter the product id you want to delete
+1
+Success!
+Enter the choice again: 
+2
+{ Product name = Game of thrones, Product Cost = 22.5, id =13}
+Enter the choice again: 
+6
+_______EXIT_______
